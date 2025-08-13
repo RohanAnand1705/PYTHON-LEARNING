@@ -1,0 +1,11 @@
+l=[2,3,4,5,6,7,8,9,1,23,54]
+print(l)
+# l.append(34)
+# print(l)
+# l.sort( )
+# print(l)
+# l.sort(reverse=True)
+# print(l)
+# l.reverse( )
+# print(l)
+print(l.index(1))
