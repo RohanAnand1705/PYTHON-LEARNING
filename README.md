@@ -1,6 +1,6 @@
 # PYTHON-LEARNING
 
-This repository contains my daily Python learning progress based on the *100 Days of Code* playlist.
+This repository contains my daily Python learning progress.
 
 ## Topics Covered So Far
 ✅ Day 1: Basic Arithmetic Operations
